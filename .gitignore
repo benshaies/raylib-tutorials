@@ -12,6 +12,7 @@ _deps
 CMakeUserPresets.json
 
 /animation-system/build
+/collisions-tutorial/build
 
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
